@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carolina González"
+title                    : "Carolina Castiblanco González"
 title_separator          : "-"
-name                     : &name "Carolina González"
+name                     : &name "Carolina Castiblanco González"
 description              : &description "Assistant professor in statistics at Dalhousie University"
 url                      : https://dancarolinii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carolina González"
+  name             : "Carolina Castiblanco González"
   avatar           : "https://avatars.githubusercontent.com/u/155687412?v=4"
   bio              : # "Assistant professor in statistics at Dalhousie University"
   location         : # "Halifax, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://scholar.google.com/citations?user=Exvg0HYAAAAJ"
-  email            : "dancarolinii@gmail.com"
+  email            : "dccastiblanco@unbosque.edu.co"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
